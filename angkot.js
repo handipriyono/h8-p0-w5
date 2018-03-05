@@ -23,7 +23,8 @@ function naikAngkot(arrPenumpang) {
 
 }
 
-//TEST CASE
+//TEST CASE bro
+
 console.log(naikAngkot([
   ['Dimitri', 'B', 'F'],
   ['Icha', 'A', 'B']
