@@ -4,7 +4,7 @@ function cariPelaku(str) {
 
 }
 
-// TEST CASES
+// TEST CASES ya
 console.log(cariPelaku('mabcvabc')); // 2
 console.log(cariPelaku('abcdabdc')); // 1
 console.log(cariPelaku('bcabcac')); // 1
